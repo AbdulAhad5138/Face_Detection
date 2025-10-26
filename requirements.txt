@@ -4,4 +4,5 @@ opencv-python-headless
 pillow
 numpy
 requests
+ffmpeg-python
 
