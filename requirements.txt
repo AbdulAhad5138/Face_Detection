@@ -5,4 +5,6 @@ pillow
 numpy
 requests
 ffmpeg-python
+easyocr
+
 
